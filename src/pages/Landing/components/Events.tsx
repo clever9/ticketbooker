@@ -12,14 +12,13 @@ function Events() {
         </h1>
         <div className="flex flex-wrap gap-y-4 gap-x-4 py-10">
           <div
-            className="hidden md:block rounded-md xl:w-2/12  lg:w-3/12 md:w-3/12  bg-white shadow-sm shadow-gray-300 p-3"
+            className="rounded-md xl:w-2/12  lg:w-3/12 md:w-3/12 w-full  bg-white shadow-sm shadow-gray-300 p-3"
             style={{ maxHeight: "280px", overflow: "hidden" }}
           >
             <List />
           </div>
           <div className="flex-grow rounded-md w-3/12 bg-white shadow-sm shadow-zinc-500">
-            {/* here will go the events info cards */}
-            fsdafdsa
+            dsafadfsa
           </div>
         </div>
       </div>
