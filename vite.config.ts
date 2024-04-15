@@ -8,4 +8,9 @@ export default defineConfig({
     host: "ticketbooker.io",
     port: 2345,
   },
+  resolve: {
+    alias: {
+      "@": "/src",
+    },
+  },
 });
