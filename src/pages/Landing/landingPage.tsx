@@ -8,7 +8,6 @@ function LandingPage() {
     <>
       <div>
         <Hero />
-
         {/* Features */}
         <Features />
         {/* Events */}
