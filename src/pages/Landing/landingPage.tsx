@@ -1,6 +1,7 @@
 import Hero from "@/components/Hero";
-import Events from "./components/Events";
+import Footer from "@/components/Footer";
 
+import Events from "./components/Events";
 import Features from "./components/Features";
 
 function LandingPage() {
@@ -12,6 +13,8 @@ function LandingPage() {
         <Features />
         {/* Events */}
         <Events />
+        {/* Footer */}
+        <Footer />
       </div>
     </>
   );

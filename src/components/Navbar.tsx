@@ -89,12 +89,6 @@ function Navbar() {
                   >
                     Events
                   </a>
-                  <a
-                    href="#"
-                    className="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium"
-                  >
-                    Team
-                  </a>
                 </div>
               </div>
             </div>
@@ -215,12 +209,6 @@ function Navbar() {
                 className="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium"
               >
                 Events
-              </a>
-              <a
-                href="#"
-                className="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium"
-              >
-                Team
               </a>
               <br />
               <div className="visible lg:invisible">
